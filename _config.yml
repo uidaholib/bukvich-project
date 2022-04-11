@@ -10,11 +10,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.lib.uidaho.edu
+url: https://github.com/uidaholib/
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /digital/bukvich-project
+baseurl: /bukvich-project
 # location of code, the full url to your github repository
-source-code: https://github.com/uidaholib/collectionbuilder-csv-template
+source-code: https://github.com/uidaholib/bukvich-project
 
 # url to the shared assets folder on Digital
 digital-assets: https://www.lib.uidaho.edu/assets
