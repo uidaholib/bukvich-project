@@ -1,0 +1,20 @@
+{ 
+    "title": "Professor Daniel Bukvich Composition Collection",
+    "url": "https://github.com/uidaholib//bukvich-project/",
+    "image": "/bukvich-project/assets/img/bukvich.png", 
+    "description": "A collection of scores, sketches, parts, and auxiliary material produced by University of Idaho Lionel Hampton School of Music Composition Professor Daniel Bukvich.",
+    "publisher": { 
+        "name": "Digital Initiatives, University of Idaho Library", 
+        "url": "https://www.lib.uidaho.edu/digital/", 
+        "logo": "https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png" 
+    },
+    "date_start": "1986",
+    "date_end": "2022",
+    "objects": {
+        "application/pdf": "28"
+        
+    },
+    "data": "https://github.com/uidaholib//bukvich-project/assets/data/datapackage.json",
+    "last_build_date": "2022-04-11"
+}
+

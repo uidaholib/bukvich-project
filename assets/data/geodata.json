@@ -1,0 +1,986 @@
+{
+    "type": "FeatureCollection",
+    "features": [ 
+        
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0001",
+                
+                "filename": "rockmus_scores.pdf",
+                "title": "Rock Music",
+                "description": "Jazz Choir piece, can be played with or without percussion accompaniment.",
+                "creator": "Bukvich, Daniel",
+                "date": "2008",
+                "date is approximate": "yes",
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/rockmus_scores_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/rockmus_scores.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0001.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0002",
+                
+                "filename": "nightpoem_aux.pdf",
+                "title": "Night Poem",
+                "description": "Jazz band or combo piece. Scored for a flugelhorn soloist.",
+                "creator": "Bukvich, Daniel",
+                "date": "2003",
+                "date is approximate": "yes",
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/nightpoem_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/nightpoem_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0002.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0003",
+                
+                "filename": "towerwinds_aux.pdf",
+                "title": "Tower Winds",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2010",
+                "date is approximate": "yes",
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/towerwinds_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/towerwinds_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0003.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0004",
+                
+                "filename": "agincourthymn_aux.pdf",
+                "title": "Agincourt Hymn",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "1986-01-26",
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng;lat",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/agincourthymn_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/agincourthymn_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0004.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0005",
+                
+                "filename": "buffalojump_aux.pdf",
+                "title": "Buffalo Jump Ritual",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2000-08-10",
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/buffalojump_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/buffalojump_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0005.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0006",
+                
+                "filename": "flagday_aux.pdf",
+                "title": "Flag Day Parade",
+                
+                "creator": "Bukvich, Daniel",
+                
+                "date is approximate": "[maybe date from Facebook Group if Dan doesn't have it]",
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/flagday_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/flagday_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0006.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0007",
+                
+                "filename": "marchprelude_scores.pdf",
+                "title": "March Prelude to the Star Spangled Banner",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2012",
+                "date is approximate": "yes",
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/marchprelude_scores_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/marchprelude_scores.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0007.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0008",
+                
+                "filename": "hanukshep_parts.pdf",
+                "title": "Hanukkah Shepard's Song",
+                
+                "creator": "Bukvich, Daniel",
+                
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/hanukshep_parts_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/hanukshep_parts.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0008.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0009",
+                
+                "filename": "threenativesongs_scores.pdf",
+                "title": "Three Native Songs",
+                
+                "creator": "Bukvich, Daniel",
+                
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/threenativesongs_scores_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/threenativesongs_scores.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0009.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0010",
+                
+                "filename": "fivefanttoneag_scores.pdf",
+                "title": "Five Fantasies on the Tones A & G for Brass Quintet",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2019",
+                "date is approximate": "yes",
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/fivefanttoneag_scores_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/fivefanttoneag_scores.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0010.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0011",
+                
+                "filename": "harmdusoir_aux.pdf",
+                "title": "Harmonie du soir",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2013",
+                "date is approximate": "yes",
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng;fra",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/harmdusoir_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/harmdusoir_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0011.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0012",
+                
+                "filename": "halfsongsaxpiano_aux.pdf",
+                "title": "Thee and One-Half Songs for Alto Saxophone and Piano",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2020",
+                "date is approximate": "yes",
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/halfsongsaxpiano_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/halfsongsaxpiano_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0012.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0013",
+                
+                "filename": "sonataflpno_parts.pdf",
+                "title": "Sonata for Flute and Piano",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2005-04",
+                "date is approximate": "yes",
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/sonataflpno_parts_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/sonataflpno_parts.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0013.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0014",
+                
+                "filename": "threeakhsongs_scores.pdf",
+                "title": "Three Anna Akhmatova Songs",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "1996",
+                "date is approximate": "yes",
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/threeakhsongs_scores_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/threeakhsongs_scores.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0014.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0015",
+                
+                "filename": "tptsonata_aux.pdf",
+                "title": "Sonata for Trumpet and Piano",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2008-04",
+                "date is approximate": "yes",
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/tptsonata_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/tptsonata_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0015.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0016",
+                
+                "filename": "light_aux.pdf",
+                "title": "Light",
+                
+                "creator": "Bukvich, Daniel",
+                
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/light_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/light_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0016.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0017",
+                
+                "filename": "kineticcode_sketches.pdf",
+                "title": "Kinetic Code",
+                
+                "creator": "Bukvich, Daniel",
+                
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/kineticcode_sketches_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/kineticcode_sketches.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0017.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0018",
+                
+                "filename": "lullanova_aux.pdf",
+                "title": "Lullanova",
+                
+                "creator": "Bukvich, Daniel",
+                
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/lullanova_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/lullanova_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0018.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0019",
+                
+                "filename": "mainspring_aux.pdf",
+                "title": "Mainspring",
+                
+                "creator": "Bukvich, Daniel",
+                
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/mainspring_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/mainspring_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0019.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0020",
+                
+                "filename": "movviol_scores.pdf",
+                "title": "Moving Violation",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2021",
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/movviol_scores_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/movviol_scores.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0020.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0021",
+                
+                "filename": "inmemdresden_aux.pdf",
+                "title": "In Memoriam Dresden",
+                
+                "creator": "Bukvich, Daniel",
+                
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/inmemdresden_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/inmemdresden_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0021.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0022",
+                
+                "filename": "ballroomportraits_aux.pdf",
+                "title": "Ballroom Portraits",
+                
+                "creator": "Bukvich, Daniel",
+                
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/ballroomportraits_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/ballroomportraits_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0022.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0023",
+                
+                "filename": "kandinsky_aux.pdf",
+                "title": "Meditations on Writings by Vasily Kandinsky",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "1996",
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/kandinsky_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/kandinsky_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0023.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0024",
+                
+                "filename": "symphmovement_scores.pdf",
+                "title": "Symphonic Movement",
+                
+                "creator": "Bukvich, Daniel",
+                
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/symphmovement_scores_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/symphmovement_scores.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0024.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0025",
+                
+                "filename": "dedication_parts.pdf",
+                "title": "Dedication",
+                
+                "creator": "Bukvich, Daniel",
+                
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/dedication_parts_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/dedication_parts.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0025.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0026",
+                
+                "filename": "flourish_parts.pdf",
+                "title": "Flourish",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2022",
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/flourish_parts_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/flourish_parts.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0026.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0027",
+                
+                "filename": "threebrazdance_aux.pdf",
+                "title": "Three Brazillian Dances",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2021",
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/threebrazdance_aux_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/threebrazdance_aux.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0027.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.0077854,46.72583715]
+            },            
+            "properties":{
+                "objectid": "bukvich0028",
+                
+                "filename": "warhorse_parts.pdf",
+                "title": "Warhorse Mysticanza",
+                
+                "creator": "Bukvich, Daniel",
+                "date": "2019",
+                
+                
+                "location": "Moscow, ID",
+                
+                "latitude": "46.72583715",
+                "longitude": "-117.0077854",
+                
+                
+                "type": "Text",
+                
+                "format": "application/pdf",
+                
+                "contributing institution": "Daniel Bukvich Library",
+                "language": "eng",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/bukvich/thumbs/warhorse_parts_th.jpg",
+                "object_location": "https://www.lib.uidaho.edu/digital/objects/bukvich/warhorse_parts.pdf",
+                "reference_url": "https://github.com/uidaholib//bukvich-project/items/bukvich0028.html"
+            }
+        }
+    ]
+}

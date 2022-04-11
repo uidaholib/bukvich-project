@@ -1,0 +1,52 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+            }
+        },
+        {
+            "field": "creator",
+            "terms": { 
+                "bukvich, daniel": 28
+            }
+        },
+        {
+            "field": "date",
+            "terms": { 
+                "2019": 2,
+                "1996": 2,
+                "2021": 2,
+                "2008": 1,
+                "2003": 1,
+                "2010": 1,
+                "1986-01-26": 1,
+                "2000-08-10": 1,
+                "2012": 1,
+                "2013": 1,
+                "2020": 1,
+                "2005-04": 1,
+                "2008-04": 1,
+                "2022": 1
+            }
+        },
+        {
+            "field": "format",
+            "terms": { 
+                "application/pdf": 28
+            }
+        },
+        {
+            "field": "location",
+            "terms": { 
+                "moscow, id": 28
+            }
+        },
+        {
+            "field": "format original",
+            "terms": { 
+            }
+        }
+        
+    ]
+}
