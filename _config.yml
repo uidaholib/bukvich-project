@@ -10,7 +10,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://github.com/uidaholib/
+url: https://uidaholib.github.io/
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /bukvich-project
 # location of code, the full url to your github repository
