@@ -3,22 +3,27 @@ layout: default
 item-meta: true
 gallery: true
 ---
+{% assign parent = site.data[site.metadata] | where_exp: 'item','item.objectid == page.objectid' %}
 {% assign children = site.data[site.metadata] | where_exp: 'item','item.parentid == page.objectid' %}
+
 <div class="container py-3">
 
     {% include item/breadcrumbs.html %}
 
     <div class="row">
         <div class="col-md-6">
-            <div class="card mb-4 text-center">
-                <p class="mt-3 text-center">View {{ children | size | plus: 1 }} Items Below<br /><small>Click any image
-                        to view all images in full-screen gallery</small></p>
+            <div class="card mb-4 px-2 text-center">
+                <p class="mt-3 text-center">View {{ children | size | plus: 1 }} Items Below<br /><small>Click any item
+                        to download</small></p>
                 <div id="lightgallery">
-                    {% if page.format contains 'image' %}
-                    {% include item/image-gallery.html %}
-                    {% else %}
-                    {% include item/item-thumb.html %}
-                    {% endif %}
+                    <div class="row">
+                    <div class="col-md-6">
+                        {% if page.format contains 'image' %}
+                        {% include item/image-gallery.html %}
+                        {% else %}
+                        {% include item/item-thumb.html %}
+                        {% endif %}
+                    </div>
                     {% for child in children %}
                     {% if child.format contains 'image' %}
                     {% include item/compound-image-gallery.html %}
@@ -29,9 +34,12 @@ gallery: true
                     {% elsif child.object_template == 'audio' %}
                     {% include item/compound-audio-player.html %}
                     {% else %}
+                    <div class="col-md-6">
                     {% include item/compound-item-thumb.html %}
+                    </div>
                     {% endif %}
                     {% endfor %}
+                    </div>
                     <div class="my-2">
 
                         {% include item/compound-download-buttons.html %}
