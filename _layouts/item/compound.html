@@ -18,12 +18,14 @@ gallery: true
                 <div id="lightgallery">
                     <div class="row">
                     <div class="col-md-6">
-                        <p class="pt-3"><small><strong>{%- if page.filename contains '_aux' -%}Auxiliary Material{%- elsif page.filename contains '_chart' -%}Chart{%- elsif page.filename contains '_scores' -%}Scores{%- elsif page.filename contains '_sketches' -%}Sketches{%- elsif page.filename contains '_parts' -%}Parts{%- endif -%}</strong></small></p>
-                        {% if page.format contains 'image' %}
-                        {% include item/image-gallery.html %}
-                        {% else %}
-                        {% include item/item-thumb.html %}
-                        {% endif %}
+                        <div class="border rounded p-2 my-2">
+                            <p class="pt-2"><small><strong>{%- if page.filename contains '_aux' -%}Auxiliary Material{%- elsif page.filename contains '_chart' -%}Chart{%- elsif page.filename contains '_scores' -%}Scores{%- elsif page.filename contains '_sketches' -%}Sketches{%- elsif page.filename contains '_parts' -%}Parts{%- endif -%}</strong></small></p>
+                            {% if page.format contains 'image' %}
+                            {% include item/image-gallery.html %}
+                            {% else %}
+                            {% include item/item-thumb.html %}
+                            {% endif %}
+                        </div>
                     </div>
                     {% for child in children %}
                     {% if child.format contains 'image' %}
@@ -36,7 +38,9 @@ gallery: true
                     {% include item/compound-audio-player.html %}
                     {% else %}
                     <div class="col-md-6">
-                    {% include item/compound-item-thumb.html %}
+                        <div class="border rounded p-2 my-2">
+                            {% include item/compound-item-thumb.html %}
+                        </div>
                     </div>
                     {% endif %}
                     {% endfor %}
