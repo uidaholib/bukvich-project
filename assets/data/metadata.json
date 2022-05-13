@@ -1,7 +1,7 @@
 { "objects": [{ 
         "objectid": "bukvich0001",
         
-        "filename": "rockmus_scores.pdf",
+        "filename": "rockmus_sketches.pdf",
         "title": "Rock Music",
         "description": "Jazz Choir piece, can be played with or without percussion accompaniment.",
         "creator": "Bukvich, Daniel",
@@ -29,7 +29,7 @@
     { 
         "objectid": "bukvich0002",
         
-        "filename": "nightpoem_aux.pdf",
+        "filename": "nightpoem_sketches.pdf",
         "title": "Night Poem",
         "description": "Jazz band or combo piece. Scored for a flugelhorn soloist.",
         "creator": "Bukvich, Daniel",
@@ -57,7 +57,7 @@
     { 
         "objectid": "bukvich0003",
         
-        "filename": "towerwinds_aux.pdf",
+        "filename": "towerwinds_sketches.pdf",
         "title": "Tower Winds",
         
         "creator": "Bukvich, Daniel",
@@ -113,7 +113,7 @@
     { 
         "objectid": "bukvich0005",
         
-        "filename": "buffalojump_aux.pdf",
+        "filename": "buffalojump_sketches.pdf",
         "title": "Buffalo Jump Ritual",
         
         "creator": "Bukvich, Daniel",
@@ -141,7 +141,7 @@
     { 
         "objectid": "bukvich0006",
         
-        "filename": "flagday_aux.pdf",
+        "filename": "flagday_sketches.pdf",
         "title": "Flag Day Parade",
         
         "creator": "Bukvich, Daniel",
@@ -169,7 +169,7 @@
     { 
         "objectid": "bukvich0007",
         
-        "filename": "marchprelude_scores.pdf",
+        "filename": "marchprelude_sketches.pdf",
         "title": "March Prelude to the Star Spangled Banner",
         
         "creator": "Bukvich, Daniel",
@@ -197,7 +197,7 @@
     { 
         "objectid": "bukvich0008",
         
-        "filename": "hanukshep_parts.pdf",
+        "filename": "hanukshep_sketches.pdf",
         "title": "Hanukkah Shepard's Song",
         
         "creator": "Bukvich, Daniel",
@@ -225,7 +225,7 @@
     { 
         "objectid": "bukvich0009",
         
-        "filename": "threenativesongs_scores.pdf",
+        "filename": "threenativesongs_sketches.pdf",
         "title": "Three Native Songs",
         
         "creator": "Bukvich, Daniel",
@@ -253,7 +253,7 @@
     { 
         "objectid": "bukvich0010",
         
-        "filename": "fivefanttoneag_scores.pdf",
+        "filename": "fivefanttoneag_sketches.pdf",
         "title": "Five Fantasies on the Tones A & G for Brass Quintet",
         
         "creator": "Bukvich, Daniel",
@@ -281,7 +281,7 @@
     { 
         "objectid": "bukvich0011",
         
-        "filename": "harmdusoir_aux.pdf",
+        "filename": "harmdusoir_sketches.pdf",
         "title": "Harmonie du soir",
         
         "creator": "Bukvich, Daniel",
@@ -309,7 +309,7 @@
     { 
         "objectid": "bukvich0012",
         
-        "filename": "halfsongsaxpiano_aux.pdf",
+        "filename": "halfsongsaxpiano_sketches.pdf",
         "title": "Thee and One-Half Songs for Alto Saxophone and Piano",
         
         "creator": "Bukvich, Daniel",
@@ -337,7 +337,7 @@
     { 
         "objectid": "bukvich0013",
         
-        "filename": "sonataflpno_parts.pdf",
+        "filename": "sonataflpno_sketches.pdf",
         "title": "Sonata for Flute and Piano",
         
         "creator": "Bukvich, Daniel",
@@ -393,7 +393,7 @@
     { 
         "objectid": "bukvich0015",
         
-        "filename": "tptsonata_aux.pdf",
+        "filename": "tptsonata_sketches.pdf",
         "title": "Sonata for Trumpet and Piano",
         
         "creator": "Bukvich, Daniel",
@@ -421,7 +421,7 @@
     { 
         "objectid": "bukvich0016",
         
-        "filename": "light_aux.pdf",
+        "filename": "light_sketches.pdf",
         "title": "Light",
         
         "creator": "Bukvich, Daniel",
@@ -505,7 +505,7 @@
     { 
         "objectid": "bukvich0019",
         
-        "filename": "mainspring_aux.pdf",
+        "filename": "mainspring_sketches.pdf",
         "title": "Mainspring",
         
         "creator": "Bukvich, Daniel",
@@ -533,7 +533,7 @@
     { 
         "objectid": "bukvich0020",
         
-        "filename": "movviol_scores.pdf",
+        "filename": "movviol_sketches.pdf",
         "title": "Moving Violation",
         
         "creator": "Bukvich, Daniel",
@@ -589,7 +589,7 @@
     { 
         "objectid": "bukvich0022",
         
-        "filename": "ballroomportraits_aux.pdf",
+        "filename": "ballroomportraits_sketches.pdf",
         "title": "Ballroom Portraits",
         
         "creator": "Bukvich, Daniel",
@@ -617,7 +617,7 @@
     { 
         "objectid": "bukvich0023",
         
-        "filename": "kandinsky_aux.pdf",
+        "filename": "kandinsky_sketches.pdf",
         "title": "Meditations on Writings by Vasily Kandinsky",
         
         "creator": "Bukvich, Daniel",
@@ -645,7 +645,7 @@
     { 
         "objectid": "bukvich0024",
         
-        "filename": "symphmovement_scores.pdf",
+        "filename": "symphmovement_sketches.pdf",
         "title": "Symphonic Movement",
         
         "creator": "Bukvich, Daniel",
@@ -673,7 +673,7 @@
     { 
         "objectid": "bukvich0025",
         
-        "filename": "dedication_parts.pdf",
+        "filename": "dedication_sketches.pdf",
         "title": "Dedication",
         
         "creator": "Bukvich, Daniel",
@@ -701,7 +701,7 @@
     { 
         "objectid": "bukvich0026",
         
-        "filename": "flourish_parts.pdf",
+        "filename": "flourish_sketches.pdf",
         "title": "Flourish",
         
         "creator": "Bukvich, Daniel",
