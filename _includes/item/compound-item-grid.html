@@ -1,0 +1,21 @@
+{% comment %}
+
+    Add a thumbnail image or icon based on format for an item, with a object_location link (if available).
+
+{% endcomment %}
+
+<div class="my-2" style="position: relative;">
+
+{% if child.object_location %}
+    <a href="{{ child.object_location | relative_url }}" target="_blank" rel="noopener">
+{% endif %}
+        <img class="img-fluid border border-dark rounded" src="{{ child.image_small | relative_url }}" alt="{{ child.title | escape }}">
+    
+        <div class="highlight text-center py-1 px-3 rounded">
+            <small>{%- if child.filename contains '_aux' -%}Auxiliary Material{%- elsif child.filename contains '_chart' -%}Chart{%- elsif child.filename contains '_scores' -%}Scores{%- elsif child.filename contains '_sketches' -%}Sketches{%- elsif child.filename contains '_parts' -%}Parts{%- endif -%}</small>
+        </div>
+{% if child.object_location %}
+    </a>
+{% endif %}
+
+</div>

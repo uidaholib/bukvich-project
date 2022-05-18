@@ -6,61 +6,52 @@ gallery: true
 {% assign parent = site.data[site.metadata] | where_exp: 'item','item.objectid == page.objectid' %}
 {% assign children = site.data[site.metadata] | where_exp: 'item','item.parentid == page.objectid' %}
 
+
 <div class="container py-3">
 
     {% include item/breadcrumbs.html %}
 
+    <h2>{{ page.title }}</h2>
+
     <div class="row">
-        <div class="col-md-6">
-            <div class="card mb-4 px-2 text-center">
-                <p class="mt-3 text-center">View {{ children | size | plus: 1 }} Items Below<br /><small>Click any item
-                        to download</small></p>
-                <div id="lightgallery">
-                    <div class="row">
-                    <div class="col-md-6">
-                        <div class="border rounded p-2 my-2">
-                            <p class="pt-2"><small><strong>{%- if page.filename contains '_aux' -%}Auxiliary Material{%- elsif page.filename contains '_chart' -%}Chart{%- elsif page.filename contains '_scores' -%}Scores{%- elsif page.filename contains '_sketches' -%}Sketches{%- elsif page.filename contains '_parts' -%}Parts{%- endif -%}</strong></small></p>
-                            {% if page.format contains 'image' %}
-                            {% include item/image-gallery.html %}
-                            {% else %}
-                            {% include item/item-thumb.html %}
-                            {% endif %}
-                        </div>
-                    </div>
-                    {% for child in children %}
-                    {% if child.format contains 'image' %}
-                    {% include item/compound-image-gallery.html %}
-                    {% elsif child.object_template == 'video-embed' %}
-                    {% include item/compound-video-embed.html %}
-                    {% elsif child.object_template == 'video' %}
-                    {% include item/compound-video-player.html %}
-                    {% elsif child.object_template == 'audio' %}
-                    {% include item/compound-audio-player.html %}
+        <div class="col-md-7">
+            <p class="mt-3 text-center">
+                View {{ children | size | plus: 1 }} Items Below
+                <br>
+                <small>Click any item to download</small>
+            </p>
+            <div class="row">
+                <div class="col-md-8">
+                    {% if page.format contains 'image' %}
+                    {% include item/image-gallery.html %}
                     {% else %}
-                    <div class="col-md-6">
-                        <div class="border rounded p-2 my-2">
-                            {% include item/compound-item-thumb.html %}
-                        </div>
-                    </div>
+                    {% include item/item-grid.html %}
                     {% endif %}
-                    {% endfor %}
-                    </div>
-                    <div class="my-2">
+                </div>
+                <div class="col-md-4">
+                        {% for child in children %}
+                        {% if child.format contains 'image' %}
+                        {% include item/compound-image-gallery.html %}
+                        {% elsif child.object_template == 'video-embed' %}
+                        {% include item/compound-video-embed.html %}
+                        {% elsif child.object_template == 'video' %}
+                        {% include item/compound-video-player.html %}
+                        {% elsif child.object_template == 'audio' %}
+                        {% include item/compound-audio-player.html %}
+                        {% else %}
 
-                        {% include item/compound-download-buttons.html %}
+                            {% include item/compound-item-grid.html %}
 
-                    </div>
-
+                        {% endif %}
+                        {% endfor %}
                 </div>
             </div>
         </div>
-
-        <div class="col-md-6">
-
+        <div class="col-md-5">
             {% include item/metadata.html %}
-
         </div>
     </div>
+    
 
     <div class="row justify-content-end mt-4">
         <div class="col-md-5">

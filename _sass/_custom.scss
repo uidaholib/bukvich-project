@@ -6,3 +6,13 @@
 .blockquote {
     font-size: 1.75rem;
 }
+
+.highlight {
+    background-color: rgba(52, 58, 64, .9);
+    position: absolute;
+    // height: auto;
+    // width: 100%;
+    color: #FFF;
+    z-index: 1;
+    bottom: 0;
+}
