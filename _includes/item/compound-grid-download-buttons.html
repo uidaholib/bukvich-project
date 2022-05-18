@@ -1,0 +1,36 @@
+<div class="text-center">
+    <div class="btn-group">
+        <div class="download m-2">
+
+            <button class="btn btn btn-outline-info dropdown-toggle" type="button" id="dropdownMenuButton"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Download
+            </button>
+
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                {% if page.object_location %}
+                <a target="_blank" rel="noopener" href="{{ page.object_location | relative_url }}" class="dropdown-item">
+                    {%- if page.filename contains '_aux' -%}"{{ page.title }}" Auxiliary Material ({{ page.format | split: '/' | last | upcase }}){%- elsif page.filename contains '_chart' -%}"{{ page.title }}" Chart ({{ page.format | split: '/' | last | upcase }}){%- elsif page.filename contains '_scores' -%}"{{ page.title }}" Scores ({{ page.format | split: '/' | last | upcase }}){%- elsif page.filename contains '_sketches' -%}"{{ page.title }}" Sketches ({{ page.format | split: '/' | last | upcase }}){%- elsif page.filename contains '_parts' -%}"{{ page.title }}" Parts ({{ page.format | split: '/' | last | upcase }}){%- endif -%}
+                </a>
+                {% endif %}
+
+                {% for child in children %}
+                {% unless child.object_location == nil %}
+                <a target="_blank" rel="noopener" href="{{ child.object_location | relative_url }}" class="dropdown-item">
+                    {%- if child.filename contains '_aux' -%}"{{ page.title }}" Auxiliary Material ({{ page.format | split: '/' | last | upcase }}){%- elsif child.filename contains '_chart' -%}"{{ page.title }}" Chart ({{ page.format | split: '/' | last | upcase }}){%- elsif child.filename contains '_scores' -%}"{{ page.title }}" Scores ({{ page.format | split: '/' | last | upcase }}){%- elsif child.filename contains '_sketches' -%}"{{ page.title }}" Sketches ({{ page.format | split: '/' | last | upcase }}){%- elsif child.filename contains '_parts' -%}"{{ page.title }}" Parts ({{ page.format | split: '/' | last | upcase }}){%- endif -%}
+                </a>
+                {% endunless %}
+                {% endfor %}
+            </div>
+        </div>
+
+        {% if page.date %}
+        {%- capture year -%}{% if page.date contains "-" %}{{ page.date | split: "-" | first }}{% elsif page.date contains "/" %}{{ page.date | split: "/" | last }}{% else %}{{ page.date }}{% endif %}{%- endcapture -%}
+
+        <div class="m-2">
+            <a href="{{ year | strip | prepend: '/timeline.html#' | relative_url }}" class="btn btn-outline-info">View on Timeline</a>
+        </div>
+        {% endif %}
+
+    </div>
+</div>
