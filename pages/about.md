@@ -15,3 +15,5 @@ credits: true
 ## About Dr. Daniel Bukvich
 
 ## About the Collection
+
+This collection is a selection of works from the Dan Bukvich Collection at the University of Idaho Special Collections Archive. These pieces were specifically pulled by Bukvich himself to serve as an informed introduction to his music and be an open resource for researchers, composers, and musicians.
