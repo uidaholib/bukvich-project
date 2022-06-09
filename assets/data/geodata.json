@@ -83,7 +83,7 @@
                 
                 "filename": "towerwinds_sketches.pdf",
                 "title": "Tower Winds",
-                
+                "description": "Wind Ensemble",
                 "creator": "Bukvich, Daniel",
                 "date": "2010",
                 "date is approximate": "yes",
@@ -118,7 +118,7 @@
                 
                 "filename": "agincourthymn_aux.pdf",
                 "title": "Agincourt Hymn",
-                
+                "description": "Wind Ensemble",
                 "creator": "Bukvich, Daniel",
                 "date": "1986-01-26",
                 
@@ -153,7 +153,7 @@
                 
                 "filename": "buffalojump_sketches.pdf",
                 "title": "Buffalo Jump Ritual",
-                
+                "description": "Concert Band",
                 "creator": "Bukvich, Daniel",
                 "date": "2000-08-10",
                 
@@ -188,7 +188,7 @@
                 
                 "filename": "flagday_sketches.pdf",
                 "title": "Flag Day Parade",
-                
+                "description": "Concert Band",
                 "creator": "Bukvich, Daniel",
                 
                 "date is approximate": "[maybe date from Facebook Group if Dan doesn't have it]",
@@ -223,7 +223,7 @@
                 
                 "filename": "marchprelude_sketches.pdf",
                 "title": "March Prelude to the Star Spangled Banner",
-                
+                "description": "Concert Band",
                 "creator": "Bukvich, Daniel",
                 "date": "2012",
                 "date is approximate": "yes",
@@ -258,7 +258,7 @@
                 
                 "filename": "hanukshep_sketches.pdf",
                 "title": "Hanukkah Shepard's Song",
-                
+                "description": "String orchestra",
                 "creator": "Bukvich, Daniel",
                 
                 
@@ -293,7 +293,7 @@
                 
                 "filename": "threenativesongs_sketches.pdf",
                 "title": "Three Native Songs",
-                
+                "description": "Concert band",
                 "creator": "Bukvich, Daniel",
                 
                 
@@ -328,7 +328,7 @@
                 
                 "filename": "fivefanttoneag_sketches.pdf",
                 "title": "Five Fantasies on the Tones A & G for Brass Quintet",
-                
+                "description": "Brass quintet",
                 "creator": "Bukvich, Daniel",
                 "date": "2019",
                 "date is approximate": "yes",
@@ -363,7 +363,7 @@
                 
                 "filename": "harmdusoir_sketches.pdf",
                 "title": "Harmonie du soir",
-                
+                "description": "Solo violin and piano",
                 "creator": "Bukvich, Daniel",
                 "date": "2013",
                 "date is approximate": "yes",
@@ -398,7 +398,7 @@
                 
                 "filename": "halfsongsaxpiano_sketches.pdf",
                 "title": "Thee and One-Half Songs for Alto Saxophone and Piano",
-                
+                "description": "Solo alto saxophone and piano",
                 "creator": "Bukvich, Daniel",
                 "date": "2020",
                 "date is approximate": "yes",
@@ -433,7 +433,7 @@
                 
                 "filename": "sonataflpno_sketches.pdf",
                 "title": "Sonata for Flute and Piano",
-                
+                "description": "Solo flute and piano",
                 "creator": "Bukvich, Daniel",
                 "date": "2005-04",
                 "date is approximate": "yes",
@@ -468,7 +468,7 @@
                 
                 "filename": "threeakhsongs_scores.pdf",
                 "title": "Three Anna Akhmatova Songs",
-                
+                "description": "Solo voice and piano",
                 "creator": "Bukvich, Daniel",
                 "date": "1996",
                 "date is approximate": "yes",
@@ -503,7 +503,7 @@
                 
                 "filename": "tptsonata_sketches.pdf",
                 "title": "Sonata for Trumpet and Piano",
-                
+                "description": "Solo trumpet and piano",
                 "creator": "Bukvich, Daniel",
                 "date": "2008-04",
                 "date is approximate": "yes",
@@ -538,9 +538,9 @@
                 
                 "filename": "light_sketches.pdf",
                 "title": "Light",
-                
+                "description": "Choir",
                 "creator": "Bukvich, Daniel",
-                
+                "date": "2019",
                 
                 
                 "location": "Moscow, ID",
@@ -573,10 +573,10 @@
                 
                 "filename": "kineticcode_sketches.pdf",
                 "title": "Kinetic Code",
-                
+                "description": "Piano and percussion",
                 "creator": "Bukvich, Daniel",
-                
-                
+                "date": "1990",
+                "date is approximate": "yes",
                 
                 "location": "Moscow, ID",
                 
@@ -608,7 +608,7 @@
                 
                 "filename": "lullanova_aux.pdf",
                 "title": "Lullanova",
-                
+                "description": "Jazz combo",
                 "creator": "Bukvich, Daniel",
                 
                 
@@ -643,7 +643,7 @@
                 
                 "filename": "mainspring_sketches.pdf",
                 "title": "Mainspring",
-                
+                "description": "Jazz combo",
                 "creator": "Bukvich, Daniel",
                 
                 
@@ -678,7 +678,7 @@
                 
                 "filename": "movviol_sketches.pdf",
                 "title": "Moving Violation",
-                
+                "description": "Jazz combo",
                 "creator": "Bukvich, Daniel",
                 "date": "2021",
                 
@@ -713,7 +713,7 @@
                 
                 "filename": "inmemdresden_aux.pdf",
                 "title": "In Memoriam Dresden",
-                
+                "description": "Wind ensemble",
                 "creator": "Bukvich, Daniel",
                 
                 
@@ -748,7 +748,7 @@
                 
                 "filename": "ballroomportraits_sketches.pdf",
                 "title": "Ballroom Portraits",
-                
+                "description": "Wind ensemble",
                 "creator": "Bukvich, Daniel",
                 
                 
@@ -783,7 +783,7 @@
                 
                 "filename": "kandinsky_sketches.pdf",
                 "title": "Meditations on Writings by Vasily Kandinsky",
-                
+                "description": "Wind ensemble",
                 "creator": "Bukvich, Daniel",
                 "date": "1996",
                 
@@ -818,7 +818,7 @@
                 
                 "filename": "symphmovement_sketches.pdf",
                 "title": "Symphonic Movement",
-                
+                "description": "Wind ensemble",
                 "creator": "Bukvich, Daniel",
                 
                 
@@ -853,7 +853,7 @@
                 
                 "filename": "dedication_sketches.pdf",
                 "title": "Dedication",
-                
+                "description": "Choir",
                 "creator": "Bukvich, Daniel",
                 
                 
@@ -888,7 +888,7 @@
                 
                 "filename": "flourish_sketches.pdf",
                 "title": "Flourish",
-                
+                "description": "Wind ensemble",
                 "creator": "Bukvich, Daniel",
                 "date": "2022",
                 
@@ -923,7 +923,7 @@
                 
                 "filename": "threebrazdance_aux.pdf",
                 "title": "Three Brazillian Dances",
-                
+                "description": "Flute and jazz orchestra",
                 "creator": "Bukvich, Daniel",
                 "date": "2021",
                 
@@ -958,7 +958,7 @@
                 
                 "filename": "warhorse_parts.pdf",
                 "title": "Warhorse Mysticanza",
-                
+                "description": "Saxophone duo and piano",
                 "creator": "Bukvich, Daniel",
                 "date": "2019",
                 

@@ -50,7 +50,8 @@
           "year": "2010"
         },
         "text": {
-          "headline": "Tower Winds"
+          "headline": "Tower Winds",
+          "text": "Wind Ensemble"
         }
       },{
         "media": {
@@ -65,7 +66,8 @@
           "year": "1986"
         },
         "text": {
-          "headline": "Agincourt Hymn"
+          "headline": "Agincourt Hymn",
+          "text": "Wind Ensemble"
         }
       },{
         "media": {
@@ -80,7 +82,8 @@
           "year": "2000"
         },
         "text": {
-          "headline": "Buffalo Jump Ritual"
+          "headline": "Buffalo Jump Ritual",
+          "text": "Concert Band"
         }
       },{
         "media": {
@@ -93,7 +96,8 @@
           "year": "2012"
         },
         "text": {
-          "headline": "March Prelude to the Star Spangled Banner"
+          "headline": "March Prelude to the Star Spangled Banner",
+          "text": "Concert Band"
         }
       },{
         "media": {
@@ -106,7 +110,8 @@
           "year": "2019"
         },
         "text": {
-          "headline": "Five Fantasies on the Tones A & G for Brass Quintet"
+          "headline": "Five Fantasies on the Tones A & G for Brass Quintet",
+          "text": "Brass quintet"
         }
       },{
         "media": {
@@ -119,7 +124,8 @@
           "year": "2013"
         },
         "text": {
-          "headline": "Harmonie du soir"
+          "headline": "Harmonie du soir",
+          "text": "Solo violin and piano"
         }
       },{
         "media": {
@@ -132,7 +138,8 @@
           "year": "2020"
         },
         "text": {
-          "headline": "Thee and One-Half Songs for Alto Saxophone and Piano"
+          "headline": "Thee and One-Half Songs for Alto Saxophone and Piano",
+          "text": "Solo alto saxophone and piano"
         }
       },{
         "media": {
@@ -147,7 +154,8 @@
           "year": "2005"
         },
         "text": {
-          "headline": "Sonata for Flute and Piano"
+          "headline": "Sonata for Flute and Piano",
+          "text": "Solo flute and piano"
         }
       },{
         "media": {
@@ -160,7 +168,8 @@
           "year": "1996"
         },
         "text": {
-          "headline": "Three Anna Akhmatova Songs"
+          "headline": "Three Anna Akhmatova Songs",
+          "text": "Solo voice and piano"
         }
       },{
         "media": {
@@ -175,7 +184,36 @@
           "year": "2008"
         },
         "text": {
-          "headline": "Sonata for Trumpet and Piano"
+          "headline": "Sonata for Trumpet and Piano",
+          "text": "Solo trumpet and piano"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/light_sketches_sm.jpg",
+          "caption": "Light",
+          "link": "/bukvich-project/items/bukvich0016.html"
+        },
+        "start_date": { 
+          
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Light",
+          "text": "Choir"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/kineticcode_sketches_sm.jpg",
+          "caption": "Kinetic Code",
+          "link": "/bukvich-project/items/bukvich0017.html"
+        },
+        "start_date": { 
+          
+          "year": "1990"
+        },
+        "text": {
+          "headline": "Kinetic Code",
+          "text": "Piano and percussion"
         }
       },{
         "media": {
@@ -188,7 +226,8 @@
           "year": "2021"
         },
         "text": {
-          "headline": "Moving Violation"
+          "headline": "Moving Violation",
+          "text": "Jazz combo"
         }
       },{
         "media": {
@@ -201,7 +240,8 @@
           "year": "1996"
         },
         "text": {
-          "headline": "Meditations on Writings by Vasily Kandinsky"
+          "headline": "Meditations on Writings by Vasily Kandinsky",
+          "text": "Wind ensemble"
         }
       },{
         "media": {
@@ -214,7 +254,8 @@
           "year": "2022"
         },
         "text": {
-          "headline": "Flourish"
+          "headline": "Flourish",
+          "text": "Wind ensemble"
         }
       },{
         "media": {
@@ -227,7 +268,8 @@
           "year": "2021"
         },
         "text": {
-          "headline": "Three Brazillian Dances"
+          "headline": "Three Brazillian Dances",
+          "text": "Flute and jazz orchestra"
         }
       },{
         "media": {
@@ -240,7 +282,8 @@
           "year": "2019"
         },
         "text": {
-          "headline": "Warhorse Mysticanza"
+          "headline": "Warhorse Mysticanza",
+          "text": "Saxophone duo and piano"
         }
       }
     ]
