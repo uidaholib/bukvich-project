@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About Dr. Daniel Bukvich;About the Collection" %}
 
-## About Dr. Daniel Bukvich
+## About Daniel Bukvich
 
 ## About the Collection
 
