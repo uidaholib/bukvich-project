@@ -23,14 +23,14 @@ browse-buttons: true # true / false, adds previous/next arrows to items, but inc
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: part_types # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
+subjects-fields: part_order # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
 subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
 # LOCATIONS PAGE
 #
-locations-fields: location # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
+locations-fields: types;part_types;score_order # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
 locations-min: 1 # min size for subject cloud, too many terms = slow load time!
 locations-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
@@ -59,9 +59,9 @@ year-nav-increment: 5 # set increments to auto gen nav years
 # 
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "objectid,parentid,filename,title,description,creator,date,date is approximate,subject,location,location-address,latitude,longitude,source,identifier,type,format original,format,digital collection,contributing institution,language,rights,rightsstatement"
+metadata-export-fields: "objectid,parentid,filename,title,piece_identifier,types,score_order,part_order,part_types,historical_background,physical_notes,key,tempo,premiere_date,creator,date,date is approximate,description,arrangement,subject,location,latitude,longitude,source,box,type,format original,format,digital collection,contributing institution,language,rights,rightsstatement"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,creator,date,format,location,format original"
+metadata-facets-fields: "types,score_order,part_order,part_types,key,tempo,premiere_date,date,box,type,format"
 
 ##########
 # ADVANCED OPTIONS
