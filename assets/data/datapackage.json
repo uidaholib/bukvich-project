@@ -31,77 +31,7 @@
             "profile": "data-resource"
         },
         
-        {
-            "name": "subject-csv",
-            "path": "subjects.csv",
-            "title": "Professor Daniel Bukvich Composition Collection metadata subject counts in csv",
-            "description": "Unique values and counts of metadata subject fields.",
-            "format":"csv",
-            "profile":"tabular-data-resource",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "subject",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "count",
-                        "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "link",
-                        "type": "string",
-                        "format": "default"
-                    }
-                ]
-            }
-        },
-        {
-            "name": "subjects-json",
-            "path": "subjects.json",
-            "title": "Professor Daniel Bukvich Composition Collection  metadata subject counts in json",
-            "description":"Unique values and counts of metadata subject fields.",
-            "format":"json",
-            "profile": "data-resource"
-        },
         
-        {
-            "name": "locations-csv",
-            "path": "subjects.csv",
-            "title": "Professor Daniel Bukvich Composition Collection metadata location counts in csv",
-            "description": "Unique values and counts of metadata location fields.",
-            "format":"csv",
-            "profile":"tabular-data-resource",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "location",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "count",
-                        "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "link",
-                        "type": "string",
-                        "format": "default"
-                    }
-                ]
-            }
-        },
-        {
-            "name": "locations-json",
-            "path": "locations.json",
-            "title": "Professor Daniel Bukvich Composition Collection metadata location counts in json",
-            "description":"Unique values and counts of metadata location fields.",
-            "format":"json",
-            "profile": "data-resource"
-        },
         
         {
             "name": "geodata-json",

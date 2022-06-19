@@ -1,3 +1,17 @@
 { "locations": [
-    { "location" : "moscow, id", "count" : 28, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#moscow,%20id" }
+    { "location" : "scores", "count" : 26, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#scores" },
+    { "location" : "parts", "count" : 24, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#parts" },
+    { "location" : "sketches", "count" : 21, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#sketches" },
+    { "location" : "aux", "count" : 19, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#aux" },
+    { "location" : "typeset parts", "count" : 18, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#typeset%20parts" },
+    { "location" : "handwritten score", "count" : 14, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#handwritten%20score" },
+    { "location" : "handwritten parts", "count" : 13, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#handwritten%20parts" },
+    { "location" : "typeset score", "count" : 12, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#typeset%20score" },
+    { "location" : "concert handwritten score", "count" : 7, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#concert%20handwritten%20score" },
+    { "location" : "handwritten concert score", "count" : 3, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#handwritten%20concert%20score" },
+    { "location" : "transposed typeset score", "count" : 2, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#transposed%20typeset%20score" },
+    { "location" : "chart", "count" : 1, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#chart" },
+    { "location" : "transposed handwritten score", "count" : 1, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#transposed%20handwritten%20score" },
+    { "location" : "handwritten percussion score", "count" : 1, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#handwritten%20percussion%20score" },
+    { "location" : "condensed score", "count" : 1, "link" : "https://uidaholib.github.io//bukvich-project/browse.html#condensed%20score" }
 ]}

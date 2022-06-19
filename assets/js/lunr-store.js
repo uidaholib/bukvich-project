@@ -27,7 +27,7 @@ var store = [{
 "id": "bukvich0007"
 
 },{  
-"title": "Hanukkah Shepard's Song","creator": "Bukvich, Daniel","description": "String orchestra","location": "Moscow, ID", 
+"title": "Hanukkah Shepherd's Song","creator": "Bukvich, Daniel","description": "String orchestra","location": "Moscow, ID", 
 "id": "bukvich0008"
 
 },{  

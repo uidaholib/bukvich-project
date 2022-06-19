@@ -13,21 +13,31 @@
                 
                 "filename": "rockmus_sketches.pdf",
                 "title": "Rock Music",
-                "description": "Jazz Choir piece, can be played with or without percussion accompaniment.",
+                "piece_identifier": "rockmus",
+                "types": "scores;parts;",
+                "score_order": "concert handwritten score;",
+                "part_order": "bass;guitar;",
+                "part_types": "handwritten parts;",
+                "historical_background": "This piece was written to help individual students study for their Geology exam. This course was taught by Mickey Gunter at the University of Idaho. Somebody mentioned that they were going to study for this test while leaving Jazz Choir, and wanted Bukvich to write a piece to facilitate their studies. This piece was performed at Gunter's reitrement and the piece was used as an extra credit assignment in Gunter's class for years. The piece contains a many \"I vi ii V\" progressions and contextual uses of minor progressions as these were topics discussed Bukvich's First Year theory class.",
+                "physical_notes": "The manuscripts for this work are a choir score and handwritten lead sheet for bass and guitar. Three different scores (condensed piano score, condensed choir score, and full choir score) detail the lineage of this piece's composition. The full choir score was constructed by cutting and taping segments of the score from another sheet of manuscript paper.",
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2008",
                 "date is approximate": "yes",
+                "description": "Jazz Choir piece, can be played with or without percussion accompaniment.",
+                "arrangement": "Jazz Choir",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "2",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -48,21 +58,31 @@
                 
                 "filename": "nightpoem_sketches.pdf",
                 "title": "Night Poem",
-                "description": "Jazz band or combo piece. Scored for a flugelhorn soloist.",
+                "piece_identifier": "nightpoem",
+                "types": "aux;chart;scores;sketches;parts",
+                "score_order": "transposed handwritten score;",
+                "part_order": "alto saxophone;tenor saxophone;baritone saxophone;flugelhorn;trumpet;trombone;piano;guitar;bass;drums;",
+                "part_types": "handwritten parts;",
+                "historical_background": "Composed for the New Hampshire All State Jazz Band. Was asked to write a ballad for the band fest.",
+                "physical_notes": "This big band piece is scored for a standard 5 saxophones, 4 trumpets (plus solo flugelhorn), 4 trombones, and rhtyhm section. In addition to the arranged big band version of this piece, there are also jazz combo parts for this work.",
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2003",
                 "date is approximate": "yes",
+                "description": "Jazz band or combo piece. Scored for a flugelhorn soloist.",
+                "arrangement": "Jazz Band; Jazz Combo",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "8",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -83,21 +103,31 @@
                 
                 "filename": "towerwinds_sketches.pdf",
                 "title": "Tower Winds",
-                "description": "Wind Ensemble",
+                "piece_identifier": "towerwinds",
+                "types": "aux;scores;parts;sketches",
+                "score_order": "concert handwritten score;",
+                "part_order": "piccolo;flute;oboe;bassoon;clarinet;bass clarinet;alto saxophone;tenor saxophone;baritone saxophone;horn;trumpet;trombone;euphonium;tuba;timpani;percussion;",
+                "part_types": "handwritten parts;",
+                "historical_background": "Written in dedication to Russell Peck and his ingenuity and creativity for the piece \"Cave.\" This piece is meant to be memorized and staged and optionally serve as a prelude to \"Cave.\" This piece has been staged multiple times by both the University of Idaho (under the direction of Robert Spevacek) and University of New Hampshire (under the direction of Andrew Boyson). Similiar to \"Cave,\" all of the parts for this work are hand copied. The exigence of this piece was spurred by Andrew Boyson, who wanted Bukvich to write this with 2 goals in mind: to encourage people to listen to \"Cave,\" and to write a piece that seemed hard to execute but was easy to produce and learn.",
+                "physical_notes": "This concert band piece involves movement across the stage and a unique ensemble arrangement on stage.",
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2010",
                 "date is approximate": "yes",
+                "description": "Wind Ensemble",
+                "arrangement": "Wind Ensemble",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "12",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -118,21 +148,31 @@
                 
                 "filename": "agincourthymn_aux.pdf",
                 "title": "Agincourt Hymn",
-                "description": "Wind Ensemble",
+                "piece_identifier": "agincourthymn",
+                "types": "aux;scores;parts",
+                "score_order": "concert handwritten score;",
+                "part_order": "piccolo;flute;oboe;english horn;bassoon;contra bassoon;clarinet;bass clarinet;soprano saxophone;alto saxophone;tenor saxophone;baritone saxophone;trumpet;flugelhorn;trombone;euphonium;tuba;timpani;percussion;",
+                "part_types": "handwritten parts;",
+                "historical_background": "Written for Wind Ensemble for opening IMEA. First time. Agincourt Hymn, John Dunstable. Wanted singing, element of movement, brass section moving forward etc. Wanted to explore insane chimes writing. Jane Pasco at Butte Highschool-- played French Horn, no french horns. Writing percussion pieces. The whole middle section is Danny Boy upside down. Jane Pasco drum cadence, that's why you should have. When performed this piece, lot of rehearsal. Tenor drums. End of the piece, the entire audience stood up. Stomping tubes. ",
+                "physical_notes": "This Wind Ensemble masterwork of Bukvich's notably replaces French Horns with Flugelhorns. All parts were handcopied by University of Idaho Alumni, Nikki Crathorne.",
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "1986-01-26",
                 
+                "description": "Wind Ensemble",
+                "arrangement": "Wind Ensemble",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "13",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng;lat",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -153,21 +193,31 @@
                 
                 "filename": "buffalojump_sketches.pdf",
                 "title": "Buffalo Jump Ritual",
-                "description": "Concert Band",
+                "piece_identifier": "buffalojump",
+                "types": "aux;parts;scores;sketches",
+                "score_order": "concert handwritten score; transposed typeset score; handwritten percussion score",
+                "part_order": "piccolo;flute;oboe;bassoon;clarinet;bass clarinet;alto saxophone;tenor saxophone;baritone saxophone;horn;trumpet;trombone;baritone;tuba;timpani;percussion;",
+                "part_types": "typeset parts;",
+                "historical_background": "Bukvich was approached by Bill Larson to write a comission for the Montana Music Educators Association (MMEA). Larson took Bukvich on a trip south of Great Falls to the Ulm Buffalo Jump Site. In growing up in Montana, Bukvich had heard of these sites throughout his life, but this excursion with Larson was his first time visiting one. Larson and the comissioning board opted for simple percussion that could be performed by any band program in the state of Montana; therefore, no mallet percussion was utilized for this piece. In planning this piece, Larson wanted to get the All State Band to rehearse the piece at the Buffalo Jump site, but \"the band world isn't cool enough to figure out how to make that happen,\" according to Bukvich. Since its original premiere at MMEA 2000, it recieves an estimated hundereds of performances a year.",
+                "physical_notes": "Scored for standard concert band, percussion includes timpani, rattle, sleighbells, suspended cymbal, prayer stones, wooden board, tom-tom, and bass drum.",
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2000-08-10",
                 
+                "description": "Concert Band",
+                "arrangement": "Concert Band",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "13",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -188,21 +238,31 @@
                 
                 "filename": "flagday_sketches.pdf",
                 "title": "Flag Day Parade",
-                "description": "Concert Band",
+                "piece_identifier": "flagday",
+                "types": "aux;scores;sketches;parts",
+                "score_order": "condensed score;concert handwritten score;",
+                "part_order": "piccolo;flute;oboe;bassoon;clarinet;bass clarinet;alto saxophone;tenor saxophone;baritone saxophone;horn;trumpet;trombone;euphonium;tuba;timpani;percussion;",
+                "part_types": "typeset parts;",
+                "historical_background": "Written for 100 anniversary of the Twin Falls Municipal Band. Many composers comissioned for this event. Bukvich used this comission as an excercise to write in the style of John Phillip Souza.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 
                 "date is approximate": "[maybe date from Facebook Group if Dan doesn't have it]",
+                "description": "Concert Band",
+                "arrangement": "Concert Band",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "15",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -223,21 +283,31 @@
                 
                 "filename": "marchprelude_sketches.pdf",
                 "title": "March Prelude to the Star Spangled Banner",
-                "description": "Concert Band",
+                "piece_identifier": "marchprelude",
+                "types": "scores;sketches;parts",
+                "score_order": "concert handwritten score;transposed typeset score;",
+                "part_order": "piccolo;flute;oboe;bassoon;clarinet;bass clarinet;alto saxophone;tenor saxophone;baritone saxophone;horn;trumpet;trombone;euphonium;tuba;timpani;percussion;",
+                "part_types": "typeset parts;",
+                "historical_background": "This was written for Grangeville Highschool, they wanted a prelude to the Star Spangled Banner. Drawing from a tradition of using Souza themes as a prelude for a performance, Bukvich composed a march that would lead the performers into the Star Spangled Banner. The content of the march is all derived from the Star Spangled Banner.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2012",
                 "date is approximate": "yes",
+                "description": "Concert Band",
+                "arrangement": "Concert Band",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "15",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -257,22 +327,32 @@
                 "objectid": "bukvich0008",
                 
                 "filename": "hanukshep_sketches.pdf",
-                "title": "Hanukkah Shepard's Song",
-                "description": "String orchestra",
+                "title": "Hanukkah Shepherd's Song",
+                "piece_identifier": "hanukshep",
+                "types": "parts;scores;sketches",
+                "score_order": "concert handwritten score;",
+                "part_order": "violin;viola;violoncello;double bass;timpani;percussion;",
+                "part_types": "handwritten parts;typeset parts;",
+                "historical_background": "All of Hannukah pieces composed by Bukvich are in a set to be performed at some point. This piece was composed for the Holiday Concert to fill a void of Hannukah music. ",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 
                 
+                "description": "String orchestra",
+                "arrangement": "String Orchestra",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "22",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -293,21 +373,31 @@
                 
                 "filename": "threenativesongs_sketches.pdf",
                 "title": "Three Native Songs",
-                "description": "Concert band",
+                "piece_identifier": "threenativesongs",
+                "types": "aux;typeset parts;sketches",
+                "score_order": "handwritten score;typeset score;",
+                "part_order": "violin;viola;violoncello;double bass;percussion;",
+                "part_types": "handwritten parts;typeset parts;",
+                "historical_background": "Commissioned by Helena, Montana for Grade School Orchestra. No melodies or inspiration from the musical history of indigenous peoples of the Americas were used, rather common themes and imagery from indigenous peoples of the Northwest United states inspired the piece.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 
                 
+                "description": "Concert band",
+                "arrangement": "Concert Band",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "23",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -328,21 +418,31 @@
                 
                 "filename": "fivefanttoneag_sketches.pdf",
                 "title": "Five Fantasies on the Tones A & G for Brass Quintet",
-                "description": "Brass quintet",
+                "piece_identifier": "fivefanttoneag",
+                "types": "scores;sketches;parts",
+                "score_order": "handwritten score;typeset score;",
+                "part_order": "trumpet;horn;trombone;tuba;",
+                "part_types": "typeset parts;",
+                "historical_background": "Written for Al Gimberling, the piece is based off his initials \"A & G.\" The spelling of the 4th movement is a hymn but was referring to him, Al Gimberling. During the first rehearsal of this piece, Al was recorded to have broken into tears from the content of the 4th movement. ",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2019",
                 "date is approximate": "yes",
+                "description": "Brass quintet",
+                "arrangement": "Brass Quintet",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "24",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -363,21 +463,31 @@
                 
                 "filename": "harmdusoir_sketches.pdf",
                 "title": "Harmonie du soir",
-                "description": "Solo violin and piano",
+                "piece_identifier": "harmdusoir",
+                "types": "scores;parts;sketches;aux",
+                "score_order": "handwritten score;typeset score;",
+                "part_order": "violin;piano;",
+                "part_types": "typeset parts;",
+                "historical_background": "Written for Emily Benjamin, a music and french major at the University of Idaho. She asked for a piece that she could play and sing. Benjamin picked a poem by Charles Baudelaire that Bukvich then adapted for this piece. This piece has also been performed by University of Idaho faculty members, Eneida Larti and Giselle Hillyer.  ",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2013",
                 "date is approximate": "yes",
+                "description": "Solo violin and piano",
+                "arrangement": "Solo violin and piano",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "24",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng;fra",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -398,21 +508,31 @@
                 
                 "filename": "halfsongsaxpiano_sketches.pdf",
                 "title": "Thee and One-Half Songs for Alto Saxophone and Piano",
-                "description": "Solo alto saxophone and piano",
+                "piece_identifier": "halfsongsaxpiano",
+                "types": "aux;scores;parts;typeset parts;sketches",
+                "score_order": "handwritten score;typeset score;",
+                "part_order": "alto saxophone;piano;",
+                "part_types": "typeset parts;",
+                "historical_background": "Commission from Vanessa Sielert for her album Duality with Catherine Anderson. The final half song notably uses tin foil in the end of the saxophone bell.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2020",
                 "date is approximate": "yes",
+                "description": "Solo alto saxophone and piano",
+                "arrangement": "Solo alto saxophone and piano",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "25",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -433,21 +553,31 @@
                 
                 "filename": "sonataflpno_sketches.pdf",
                 "title": "Sonata for Flute and Piano",
-                "description": "Solo flute and piano",
+                "piece_identifier": "sonataflpno",
+                "types": "parts;scores;sketches",
+                "score_order": "handwritten score;typeset score;",
+                "part_order": "flute;piano;",
+                "part_types": "typeset parts;",
+                "historical_background": "Written for two students Kristen McMullen and Sarah Simpkins for their senior recital. ",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2005-04",
                 "date is approximate": "yes",
+                "description": "Solo flute and piano",
+                "arrangement": "Solo flute and piano",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "25",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -468,21 +598,31 @@
                 
                 "filename": "threeakhsongs_scores.pdf",
                 "title": "Three Anna Akhmatova Songs",
-                "description": "Solo voice and piano",
+                "piece_identifier": "threeakhsongs",
+                "types": "scores;",
+                "score_order": "handwritten concert score;",
+                "part_order": "soprano;piano",
+                
+                "historical_background": "Written for Jennifer Hudson, it uses Anna Akhmatova poems as the text material.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "1996",
                 "date is approximate": "yes",
+                "description": "Solo voice and piano",
+                "arrangement": "Solo voice and piano",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "25",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -503,21 +643,31 @@
                 
                 "filename": "tptsonata_sketches.pdf",
                 "title": "Sonata for Trumpet and Piano",
-                "description": "Solo trumpet and piano",
+                "piece_identifier": "tptsonata",
+                "types": "aux;scores;sketches",
+                "score_order": "handwritten concert score;",
+                "part_order": "trumpet;piano",
+                
+                "historical_background": "Brian Chin, graduate level trumpet but easy accompanist part. Orchestrated later for Wind Ensemble. ",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2008-04",
                 "date is approximate": "yes",
+                "description": "Solo trumpet and piano",
+                "arrangement": "Solo trumpet and piano",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "25",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -538,21 +688,31 @@
                 
                 "filename": "light_sketches.pdf",
                 "title": "Light",
-                "description": "Choir",
+                "piece_identifier": "light",
+                "types": "aux;scores;parts;sketches",
+                "score_order": "handwritten concert score;",
+                "part_order": "soprano;alto;tenor;baritone;bass",
+                "part_types": "handwritten parts;typeset parts;",
+                "historical_background": "This Hannukah piece was written for the Holiday Concert in 2019.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2019",
                 
+                "description": "Choir",
+                "arrangement": "Choir",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "27",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -573,21 +733,31 @@
                 
                 "filename": "kineticcode_sketches.pdf",
                 "title": "Kinetic Code",
-                "description": "Piano and percussion",
+                "piece_identifier": "kineticcode",
+                "types": "sketches;scores;parts;",
+                "score_order": "handwritten score;typeset score;",
+                "part_order": "percussion;piano;",
+                "part_types": "handwritten parts;typeset parts;",
+                "historical_background": "Half of the Bartok Sonata instrumentation for Piano and Percussion. One of two companion pieces for the Bartok Sonata for Two Pianos and Percussion. Written for Jennifer Coiman and Andrew Stallcop for a senior recital at the University of Idaho. Piano and percussion, as opposed to Piano with Timpani. The timpani/piano companion piece has never been composed. This piece has been played extensively around the country as a recital piece.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "1990",
                 "date is approximate": "yes",
+                "description": "Piano and percussion",
+                "arrangement": "Piano and percussion",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "29",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -608,21 +778,31 @@
                 
                 "filename": "lullanova_aux.pdf",
                 "title": "Lullanova",
-                "description": "Jazz combo",
+                "piece_identifier": "lullanova",
+                "types": "aux;scores;parts;",
+                "score_order": "handwritten score;typeset score;",
+                
+                "part_types": "handwritten parts;",
+                "historical_background": "Written for Palouse Jazz Project.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 
                 
+                "description": "Jazz combo",
+                "arrangement": "Jazz Combo",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "30",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -643,21 +823,31 @@
                 
                 "filename": "mainspring_sketches.pdf",
                 "title": "Mainspring",
-                "description": "Jazz combo",
+                "piece_identifier": "mainspring",
+                "types": "aux;sketches;parts",
+                
+                
+                "part_types": "handwritten parts;",
+                "historical_background": "Written for Palouse Jazz Project.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 
                 
+                "description": "Jazz combo",
+                "arrangement": "Jazz Combo",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "30",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -678,21 +868,31 @@
                 
                 "filename": "movviol_sketches.pdf",
                 "title": "Moving Violation",
-                "description": "Jazz combo",
+                "piece_identifier": "movviol",
+                "types": "sketches;aux;scores;parts;",
+                "score_order": "handwritten score;",
+                
+                "part_types": "handwritten parts;",
+                "historical_background": "Bukvich's student Josh Hebert asked how to play a \"train beat\" for a country band he was playing in. A student walked in and expressed that no jazz band would play those beats. This piece is a jazz piece that utilizes that train beat. At the same time, Bukvich's student, Liam Marchant, noticed some of the harmonic similiarities between \"Giant Steps\" and the bridge to \"Have You Met Miss Jones?\" in Bukvich's Jazz Theory class. The bridge of this piece is the bridge of \"Have You Met Miss Jones?\"",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2021",
                 
+                "description": "Jazz combo",
+                "arrangement": "Jazz Combo",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "30",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -713,21 +913,31 @@
                 
                 "filename": "inmemdresden_aux.pdf",
                 "title": "In Memoriam Dresden",
-                "description": "Wind ensemble",
+                "piece_identifier": "inmemdresden",
+                "types": "aux;scores;parts;",
+                "score_order": "handwritten score;",
+                
+                "part_types": "handwritten parts;",
+                
+                "physical_notes": "The final movement of this work notable has a city on fire embedded within the score.",
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 
                 
+                "description": "Wind ensemble",
+                "arrangement": "Wind Ensemble",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "A",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -748,21 +958,31 @@
                 
                 "filename": "ballroomportraits_sketches.pdf",
                 "title": "Ballroom Portraits",
-                "description": "Wind ensemble",
+                "piece_identifier": "ballroomportraits",
+                "types": "aux;sketches;parts;scores",
+                "score_order": "typeset score;",
+                
+                "part_types": "typeset parts;",
+                "historical_background": "Comissioned by family of a long time Idaho music educator, Walter Howard Snodgrass. Based on song Snodgrass wrote for his wife in the style of Amercan Song Writer, Robert Russell Bennet. The names of the movements are titled after the inventors of the following dances: The Castle Walk, Fox's Trot, The Charleston, The Motion Picture Waltz, and The Lindy Hop.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 
                 
+                "description": "Wind ensemble",
+                "arrangement": "Wind Ensemble",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "B",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -783,21 +1003,31 @@
                 
                 "filename": "kandinsky_sketches.pdf",
                 "title": "Meditations on Writings by Vasily Kandinsky",
-                "description": "Wind ensemble",
+                "piece_identifier": "kandinsky",
+                "types": "aux;scores;sketches",
+                "score_order": "handwritten score;",
+                
+                
+                "historical_background": "Written for Jeff Funderburk at the University of Iowa, this comission was presented with the challenge of creating a score that an audience would have an enjoyable time following along with. Each movement is based off painting conventions by Wassily Kandinsky. The work has seen hundreds of performances around the world. ",
+                "physical_notes": "The work features many graphic pieces meant to resemble works of Kandinsky. Circular staves and uses of color within the music are integral to the piece's notation.",
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "1996",
                 
+                "description": "Wind ensemble",
+                "arrangement": "Wind Ensemble",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "B",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -818,21 +1048,31 @@
                 
                 "filename": "symphmovement_sketches.pdf",
                 "title": "Symphonic Movement",
-                "description": "Wind ensemble",
+                "piece_identifier": "symphmovement",
+                "types": "aux;scores;parts;sketches",
+                "score_order": "handwritten score;typeset score;",
+                "part_order": "conductor;double bass;flute",
+                "part_types": "typeset parts;",
+                "historical_background": "Originally comissioned for Idaho All State Band. Should be difficult and a once in a lifetime experience. Write a piece that looks unplayable for the all state band kid.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 
                 
+                "description": "Wind ensemble",
+                "arrangement": "Wind Ensemble",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "B",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -853,21 +1093,31 @@
                 
                 "filename": "dedication_sketches.pdf",
                 "title": "Dedication",
-                "description": "Choir",
+                "piece_identifier": "dedication",
+                "types": "aux;parts;scores;sketches",
+                "score_order": "handwritten score;",
+                "part_order": "soprano;alto;tenor;baritone;timpani;percussion",
+                "part_types": "handwritten parts;",
+                "historical_background": "This Hannukah piece was written for the Holiday Concert.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 
                 
+                "description": "Choir",
+                "arrangement": "Choir",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "n/a",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -888,21 +1138,31 @@
                 
                 "filename": "flourish_sketches.pdf",
                 "title": "Flourish",
-                "description": "Wind ensemble",
+                "piece_identifier": "flourish",
+                "types": "parts;scores;sketches",
+                "score_order": "handwritten score;typeset score;",
+                "part_order": "piccolo;flute;oboe;bassoon;clarinet;alto saxophone;tenor saxophone;baritone saxophone;horn;trumpet;trombone;euphonium;tuba;timpani;percussion;",
+                "part_types": "typeset parts;",
+                "historical_background": "Written as a tribute to Bill Larson, a long time band director and music educator in Montana. This piece was comissioned by the Great Falls Symphony to be performed for Larson. This piece was comissioned upon hearing of a terminal cancer diagnosis from Larson, Larson passed from complications of COVID-19 in late January of 2022.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2022",
                 
+                "description": "Wind ensemble",
+                "arrangement": "Wind Ensemble",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "n/a",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -923,21 +1183,31 @@
                 
                 "filename": "threebrazdance_aux.pdf",
                 "title": "Three Brazillian Dances",
-                "description": "Flute and jazz orchestra",
+                "piece_identifier": "threebrazdance",
+                "types": "aux;parts;scores;",
+                "score_order": "handwritten score;typeset score;",
+                "part_order": "flute;alto saxophone;tenor saxophone;baritone saxophone;trumpet;trombone;bass trombone;percussion;vibraphone;guitar;piano;bass;drums;",
+                "part_types": "typeset parts;",
+                "historical_background": "Comissioned by Leonard Garrison to be performed with various High School Jazz Ensembles in Idaho and Eastern Washington, the three movement work features Garrison on standard flute, alto flute, piccolo, and bass flute. ",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2021",
                 
+                "description": "Flute and jazz orchestra",
+                "arrangement": "Flute and jazz orchestra",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "n/a",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
@@ -958,21 +1228,31 @@
                 
                 "filename": "warhorse_parts.pdf",
                 "title": "Warhorse Mysticanza",
-                "description": "Saxophone duo and piano",
+                "piece_identifier": "warhorse",
+                "types": "parts;scores;",
+                "score_order": "typeset score;",
+                "part_order": "alto saxophone;piano;",
+                "part_types": "typeset parts;",
+                "historical_background": "This piece was comissioned by Patrick Jones and Vanessa Sielert for the 2020 North American Saxophone Alliance Conference in Tempe, Arizona. The work is a conglomoration of three standard works in the saxophone repertoire (Aleksandr Glazanov's Concerto for Alto Saxophone, Jaques Ibert's Concertino da Camera for Alto Saxophone, and Paul Creston's Sonata for Alto Saxophone). Coined as some of the \"war horse\" pieces in the reperoire, this work was meant to serve some inside jokes to an audience of almost all saxophone players by tastefully mashing the works together.",
+                
+                
+                
+                
                 "creator": "Bukvich, Daniel",
                 "date": "2019",
                 
+                "description": "Saxophone duo and piano",
+                "arrangement": "Saxophone duo and piano",
                 
                 "location": "Moscow, ID",
-                
                 "latitude": "46.72583715",
                 "longitude": "-117.0077854",
-                
-                
+                "source": "Professor Daniel Bukvich Composition Archive, University of Idaho Special Collections & Archives",
+                "box": "n/a",
                 "type": "Text",
                 
                 "format": "application/pdf",
-                
+                "digital collection": "Professor Daniel Bukvich Composition Collection",
                 "contributing institution": "Daniel Bukvich Library",
                 "language": "eng",
                 "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
