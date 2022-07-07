@@ -1,6 +1,10 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
-part_types,,true
-location,,true
+types,,true
+part_types,,,true
+arrangement,,true
+part_order,,,true
+types,,,true
+score_order,,,true
 identifier,,,true,Identifier

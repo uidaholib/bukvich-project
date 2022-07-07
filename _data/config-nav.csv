@@ -1,9 +1,13 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
+Visualizations
+Instruments,/instruments.html,Visualizations
+Formats,/formats.html,Visualizations
+Arrangements,/arrangements.html,Visualizations
 Map,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
-About,/about.html,
+About
+About the Collection,/about.html,About
+Writing Utensils,/writing.html,About

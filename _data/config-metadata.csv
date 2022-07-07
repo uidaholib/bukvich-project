@@ -2,13 +2,19 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.created,dateCreated
-description,Description,,,DCTERMS.description,description
+date is approximate,Date is Approximate?,
+description,Instrumentation,,,DCTERMS.description,description
+historical_background,Historical Background,
+physical_notes,Physical Notes,
+premiere_date,Premiere Date,
+score_order,Score Order,true
+part_order,Part Order,true
+part_types,Part Types,true
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
+box,Archival Box Number,
+piece_identifier,Source Identifier,,,,
 source,Source,,,,
-identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
