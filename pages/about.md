@@ -8,11 +8,20 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/bukvich_about.png" %} 
+{% include feature/jumbotron.html objectid="/assets/img/bukvich_about.png" heading="Professor Daniel Bukvich Biography" text="Notes on Bukvich's early musical influence and training" %} 
 
-{% include feature/nav-menu.html sections="About Daniel Bukvich;About the Collection;Project Collaborators" %}
+{% include feature/nav-menu.html sections="Early Years;First Instructors;Montana State University;University of Idaho;Project Collaborators" %}
 
-### Professor Daniel Bukvich Biography
+{:.pt-5}
+This digital collection is a selection of works from the Professor Daniel Bukvich Collection at the University of Idaho Library;s Special Collections and Archives.
+These pieces were specifically curated by Bukvich himself to serve as an informed introduction to his music and be an open resource for researchers, composers, and musicians.
+
+The digital collection was created with the assistance of Liam Marchant, a 2022 University of Idaho graduate, Music Composition Major, and Center for Digital Inquiry and Learning (CDIL) Fellow.
+To discover more about the pieces in this collection and the influences behind them, Marchant conducted a series of interviews with Professor Bukvich during the summer of 2022.
+The information from those interviews has been condensed into the bibliographic narrative below.
+{:.pb-3}
+
+{% include feature/image.html objectid="/assets/img/dan-bukvich-headshot.jpg" width="50" caption="University of Idaho Professor and Composer Daniel Bukvich, M.M." %}
 
 ## Early Years
 
@@ -52,18 +61,29 @@ Bukvich recalls not really paying any mind to a degree program while at MSU, rat
 
 Louie Belson, the drummer of the Duke Ellington band, was a featured guest at MSU in January of 1974. Belson taught Bukvich several new drum set techniques and facilitated his compositional goals. Belson introduced Bukvich to the "Ellington Chord" which is a C triad with a D-flat above the low C. This structure became the cell basis for Bukvich's Symphony No. 1 for Band in his masters thesis. Belson was slated to introduce Bukvich to Ellington later that year, but Ellington died weeks before the day they would meet.
 
-Bukvich graduated from MSU with a degree in Music Education in (year), the only music degree offered at MSU at the time. During his time at MSU, he had conducted a percussion ensemble which had grabbed the attention of Robert Spevacek, at the University of Idaho (U of I). Spevacek was in need of a graduate percussion TA to run percussion ensemble. Spevacek further influenced Bukvich's decision to come to the University of Idaho by introducing him to William Billingsly who would be one of Bukvich's most influential composition mentors.
+Bukvich graduated from MSU with a degree in Music Education in 1976, the only music degree offered at MSU at the time. During his time at MSU, he had conducted a percussion ensemble which had grabbed the attention of Professor Robert Spevacek, at the University of Idaho (U of I). Spevacek was in need of a graduate percussion TA to run percussion ensemble. Spevacek further influenced Bukvich's decision to come to the University of Idaho by introducing him to William Billingsly who would be one of Bukvich's most influential composition mentors.
 
 ## University of Idaho
 
-Upon coming to U of I, Bukvich was soon given the job of directing the marching band. Bukvich recalls having no initial interest in directing the group but that the job eventually transformed into a 10-year composition lesson. During this time he ended up on the faculty at the U of I in (year).
+Upon coming to U of I, Bukvich was soon given the job of directing the marching band. Bukvich recalls having no initial interest in directing the group but that the job eventually transformed into a 10-year composition lesson. During this time he ended up on the faculty at the U of I in 1977, where his teaching duties now include the percussion studio, first year music theory and aural skills, and jazz choirs.
 
-After 15 years of being at the U of I, Bukvich was encouraged by William Billingsly and Ronald Klimko to re-develop an aural skills and theory program. He recalled hearing from Billingsly that he needed to "find out what everyone else is doing and don't do it." Bukvich claims that to this day, the class's curriculum is still changing, the goals haven't changed but the methods certainly have.
-
-## About the Collection
-
-This collection is a selection of works from the Dan Bukvich Collection at the University of Idaho Special Collections Archive. These pieces were specifically curated by Bukvich himself to serve as an informed introduction to his music and be an open resource for researchers, composers, and musicians.
+After 15 years of being at the U of I, Bukvich was encouraged by Music professors William Billingsly and Ronald Klimko to re-develop an aural skills and theory program. He recalls Billingsly advising him to "find out what everyone else is doing and don't do it." Bukvich claims that to this day, the class's curriculum is still changing, the goals haven't changed but the methods certainly have.
 
 ## Project Collaborators
 
-Liam R. Marchant (composition student and library student employee), Olivia Wikle (CDIL digital librarian)
+<div class="row py-4 about-narrowed-content align-items-center">
+    <div class="col-md-4 text-center">
+        <img class="img-fluid rounded-circle lazyload" alt="Liam Marchant headshot" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ '/assets/img/marchant-headshot.jpg' | relative_url }}" >
+    </div>
+    <div class="col-md-8">
+        <strong>Liam R. Marchant</strong> is a 2022 graduate of the University of Idaho's Lionel Hampton School of Music and holds a Bachelor of Music in Composition. He was a 2021 <a href="https://cdil.lib.uidaho.edu/people/#profile-liam-marchant" target="_blank" rel="noopener">Center for Digital Inquiry and Learning (CDIL) Library Undergraduate Fellow</a>, and an undergraduate research assistant for CDIL's <a href="https://cdil.lib.uidaho.edu/mancini/" target="_blank" rel="noopener">Letters of Marie Mancini</a> project.
+    </div>
+</div>
+<div class="row py-2 about-narrowed-content align-items-center">
+    <div class="col-md-4 text-center">
+        <img class="img-fluid rounded-circle lazyload" alt="Olivia Wikle headshot" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ '/assets/img/wikle-headshot.jpg' | relative_url }}" >
+    </div>
+    <div class="col-md-8">
+        <strong>Olivia M. Wikle</strong> is the Digital Initiatives Librarian and Co-Director of the <a href="https://cdil.lib.uidaho.edu/" target="_blank" rel="noopener">CDIL</a>, where she leads and supervises creative digital projects.
+    </div>
+</div>
