@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/bukvich_about.png" heading="Professor Daniel Bukvich Biography" text="Notes on Bukvich's early musical influence and training" %} 
+{% include feature/jumbotron.html objectid="/assets/img/bukvich-about.png" heading="Professor Daniel Bukvich Biography" text="Notes on Bukvich's early musical influence and training" %} 
 
 {% include feature/nav-menu.html sections="Early Years;First Instructors;Montana State University;University of Idaho;Project Collaborators" %}
 
