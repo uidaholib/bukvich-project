@@ -3,21 +3,72 @@
         {
             "field": "types",
             "terms": { 
+                "scores": 26,
+                "parts": 24,
+                "sketches": 21,
+                "aux": 19,
+                "typeset parts": 2,
+                "chart": 1
             }
         },
         {
             "field": "score_order",
             "terms": { 
+                "handwritten score": 14,
+                "typeset score": 12,
+                "concert handwritten score": 7,
+                "handwritten concert score": 3,
+                "transposed typeset score": 2,
+                "transposed handwritten score": 1,
+                "handwritten percussion score": 1,
+                "condensed score": 1
             }
         },
         {
             "field": "part_order",
             "terms": { 
+                "percussion": 11,
+                "alto saxophone": 10,
+                "trumpet": 10,
+                "trombone": 9,
+                "piano": 9,
+                "flute": 9,
+                "tenor saxophone": 8,
+                "baritone saxophone": 8,
+                "timpani": 8,
+                "tuba": 7,
+                "piccolo": 6,
+                "oboe": 6,
+                "bassoon": 6,
+                "clarinet": 6,
+                "horn": 6,
+                "bass clarinet": 5,
+                "euphonium": 5,
+                "bass": 4,
+                "guitar": 3,
+                "baritone": 3,
+                "violin": 3,
+                "double bass": 3,
+                "soprano": 3,
+                "flugelhorn": 2,
+                "drums": 2,
+                "viola": 2,
+                "violoncello": 2,
+                "alto": 2,
+                "tenor": 2,
+                "english horn": 1,
+                "contra bassoon": 1,
+                "soprano saxophone": 1,
+                "conductor": 1,
+                "bass trombone": 1,
+                "vibraphone": 1
             }
         },
         {
             "field": "part_types",
             "terms": { 
+                "typeset parts": 16,
+                "handwritten parts": 13
             }
         },
         {
@@ -28,6 +79,31 @@
         {
             "field": "tempo",
             "terms": { 
+                "q=112": 2,
+                "q=138": 1,
+                "q=60": 1,
+                "q=110": 1,
+                "q=72,q=120,de=96,q=79,q=132,h=72": 1,
+                "q=80,q=90,q=156,q=144,q=160,q=170": 1,
+                "dq=106": 1,
+                "q=64,q=148,q=64,": 1,
+                "q=80,q=72,q=96": 1,
+                "q=90,q=60,q=80,h=66,q=132": 1,
+                "q=50,q=68,q=180,q=56,q=68,q=54,q=72,q=54,q=110,q=72,q=60,q=110,q=60,q=50,q=58,q=45,": 1,
+                "q=104,q=60,ddqd=58,q=104": 1,
+                "q=192": 1,
+                "q=50": 1,
+                "qd=112,q=132,q=132,q=70": 1,
+                "q=152": 1,
+                "q=150": 1,
+                "q=92": 1,
+                "q=200": 1,
+                "q=66,q=160,q=66": 1,
+                "q=110,q=94,q=84,q=100,q=94,q=200,q=100": 1,
+                "h=88,q=88,h=88,q=100,h=100,qd=44,h=72,": 1,
+                "q=160,h=80": 1,
+                "q=116,q=96,q=112": 1,
+                "q=126,q=56,q=92,q=76,q=120,q=126,q=132,q=160,": 1
             }
         },
         {
@@ -38,21 +114,53 @@
         {
             "field": "date",
             "terms": { 
+                "2019": 3,
+                "1996": 2,
+                "2021": 2,
+                "2008": 1,
+                "2003": 1,
+                "2010": 1,
+                "1986-01-26": 1,
+                "2000-08-10": 1,
+                "2012": 1,
+                "2013-02-17": 1,
+                "2020": 1,
+                "2005-04": 1,
+                "2008-04": 1,
+                "1990": 1,
+                "2022": 1
             }
         },
         {
             "field": "box",
             "terms": { 
+                "25": 4,
+                "n/a": 4,
+                "30": 3,
+                "b": 3,
+                "13": 2,
+                "15": 2,
+                "24": 2,
+                "2": 1,
+                "8": 1,
+                "12": 1,
+                "22": 1,
+                "23": 1,
+                "27": 1,
+                "29": 1,
+                "a": 1
             }
         },
         {
             "field": "type",
             "terms": { 
+                "text": 28
             }
         },
         {
             "field": "format",
             "terms": { 
+                "application/pdf": 28
             }
         }
         

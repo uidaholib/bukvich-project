@@ -11,6 +11,282 @@
         }
     },
     "events": [
-      
+      {
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/rockmus_sketches_sm.jpg",
+          "caption": "Rock Music",
+          "link": "/bukvich-project/items/bukvich0001.html"
+        },
+        "start_date": { 
+          
+          "year": "2008"
+        },
+        "text": {
+          "headline": "Rock Music",
+          "text": "Jazz Choir piece, can be played with or without percussion accompaniment."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/nightpoem_sketches_sm.jpg",
+          "caption": "Night Poem",
+          "link": "/bukvich-project/items/bukvich0002.html"
+        },
+        "start_date": { 
+          
+          "year": "2003"
+        },
+        "text": {
+          "headline": "Night Poem",
+          "text": "Jazz band or combo piece. Scored for a flugelhorn soloist."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/towerwinds_sketches_sm.jpg",
+          "caption": "Tower Winds",
+          "link": "/bukvich-project/items/bukvich0003.html"
+        },
+        "start_date": { 
+          
+          "year": "2010"
+        },
+        "text": {
+          "headline": "Tower Winds",
+          "text": "Wind Ensemble"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/agincourthymn_aux_sm.jpg",
+          "caption": "Agincourt Hymn",
+          "link": "/bukvich-project/items/bukvich0004.html"
+        },
+        "start_date": { 
+          
+          "month": "01",
+          "day": "26",
+          "year": "1986"
+        },
+        "text": {
+          "headline": "Agincourt Hymn",
+          "text": "Wind Ensemble"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/buffalojump_sketches_sm.jpg",
+          "caption": "Buffalo Jump Ritual",
+          "link": "/bukvich-project/items/bukvich0005.html"
+        },
+        "start_date": { 
+          
+          "month": "08",
+          "day": "10",
+          "year": "2000"
+        },
+        "text": {
+          "headline": "Buffalo Jump Ritual",
+          "text": "Concert Band"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/marchprelude_sketches_sm.jpg",
+          "caption": "March Prelude to the Star Spangled Banner",
+          "link": "/bukvich-project/items/bukvich0007.html"
+        },
+        "start_date": { 
+          
+          "year": "2012"
+        },
+        "text": {
+          "headline": "March Prelude to the Star Spangled Banner",
+          "text": "Concert Band"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/fivefanttoneag_sketches_sm.jpg",
+          "caption": "Five Fantasies on the Tones A & G for Brass Quintet",
+          "link": "/bukvich-project/items/bukvich0010.html"
+        },
+        "start_date": { 
+          
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Five Fantasies on the Tones A & G for Brass Quintet",
+          "text": "Brass quintet"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/harmdusoir_sketches_sm.jpg",
+          "caption": "Harmonie du soir",
+          "link": "/bukvich-project/items/bukvich0011.html"
+        },
+        "start_date": { 
+          
+          "month": "02",
+          "day": "17",
+          "year": "2013"
+        },
+        "text": {
+          "headline": "Harmonie du soir",
+          "text": "Solo violin and piano"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/halfsongsaxpiano_sketches_sm.jpg",
+          "caption": "Three and One-Half Songs for Alto Saxophone and Piano",
+          "link": "/bukvich-project/items/bukvich0012.html"
+        },
+        "start_date": { 
+          
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Three and One-Half Songs for Alto Saxophone and Piano",
+          "text": "Solo alto saxophone and piano"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/sonataflpno_sketches_sm.jpg",
+          "caption": "Sonata for Flute and Piano",
+          "link": "/bukvich-project/items/bukvich0013.html"
+        },
+        "start_date": { 
+          
+          "month": "04",
+          "day": "",
+          "year": "2005"
+        },
+        "text": {
+          "headline": "Sonata for Flute and Piano",
+          "text": "Solo flute and piano"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/threeakhsongs_scores_sm.jpg",
+          "caption": "Three Anna Akhmatova Songs",
+          "link": "/bukvich-project/items/bukvich0014.html"
+        },
+        "start_date": { 
+          
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Three Anna Akhmatova Songs",
+          "text": "Solo voice and piano"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/tptsonata_sketches_sm.jpg",
+          "caption": "Sonata for Trumpet and Piano",
+          "link": "/bukvich-project/items/bukvich0015.html"
+        },
+        "start_date": { 
+          
+          "month": "04",
+          "day": "",
+          "year": "2008"
+        },
+        "text": {
+          "headline": "Sonata for Trumpet and Piano",
+          "text": "Solo trumpet and piano"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/light_sketches_sm.jpg",
+          "caption": "Light",
+          "link": "/bukvich-project/items/bukvich0016.html"
+        },
+        "start_date": { 
+          
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Light",
+          "text": "Choir"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/kineticcode_sketches_sm.jpg",
+          "caption": "Kinetic Code",
+          "link": "/bukvich-project/items/bukvich0017.html"
+        },
+        "start_date": { 
+          
+          "year": "1990"
+        },
+        "text": {
+          "headline": "Kinetic Code",
+          "text": "Piano and percussion"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/movviol_sketches_sm.jpg",
+          "caption": "Moving Violation",
+          "link": "/bukvich-project/items/bukvich0020.html"
+        },
+        "start_date": { 
+          
+          "year": "2021"
+        },
+        "text": {
+          "headline": "Moving Violation",
+          "text": "Jazz combo"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/kandinsky_sketches_sm.jpg",
+          "caption": "Meditations on Writings by Vasily Kandinsky",
+          "link": "/bukvich-project/items/bukvich0023.html"
+        },
+        "start_date": { 
+          
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Meditations on Writings by Vasily Kandinsky",
+          "text": "Wind ensemble"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/flourish_sketches_sm.jpg",
+          "caption": "Flourish",
+          "link": "/bukvich-project/items/bukvich0026.html"
+        },
+        "start_date": { 
+          
+          "year": "2022"
+        },
+        "text": {
+          "headline": "Flourish",
+          "text": "Wind ensemble"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/threebrazdance_aux_sm.jpg",
+          "caption": "Three Brazillian Dances",
+          "link": "/bukvich-project/items/bukvich0027.html"
+        },
+        "start_date": { 
+          
+          "year": "2021"
+        },
+        "text": {
+          "headline": "Three Brazillian Dances",
+          "text": "Flute and jazz orchestra"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/bukvich/small/warhorse_parts_sm.jpg",
+          "caption": "Warhorse Mysticanza",
+          "link": "/bukvich-project/items/bukvich0028.html"
+        },
+        "start_date": { 
+          
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Warhorse Mysticanza",
+          "text": "Saxophone duo and piano"
+        }
+      }
     ]
 }
