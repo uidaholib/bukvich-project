@@ -14,7 +14,7 @@ credits: false
 
 ## Writing Utensils
 
-In the modern age, composition often solely resides within a music notation software such as Finale or Sibelius. However, engrained within the auditory craft of composition is a visual component and a necessity for fluency in abstract symbols. This craft is often easier to develop and evolve on a physical piece of paper as opposed to a notation software that confines the composer to predictive spacing, beaming, and general formatting. Professor Daniel Bukvich continues to sketch, arrange, orchestrate, and copy music by hand. His tools for composition have changed over time and they offer a perspective on the array of utensils that are used in handwriting music.
+In the modern age, composition often solely resides within a music notation software such as Finale or Sibelius. However, engrained within the auditory craft of composition is a visual component and a necessity for fluency in abstract symbols. This craft is often easier to develop and evolve on a physical piece of paper as opposed to a notation software that confines the composer to predictive spacing, beaming, and general formatting. Professor Daniel Bukvich continues to sketch, arrange, orchestrate, and copy music by hand. His tools for composition have changed over time and they offer a perspective on the array of utensils that are used in handwriting music. Learn more about them below.
 
 <div class="row text-center pb-5">
     <div class="col-md-6">
