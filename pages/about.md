@@ -84,6 +84,6 @@ After 15 years of being at the U of I, Bukvich was encouraged by Music professor
         <img class="img-fluid rounded-circle lazyload" alt="Olivia Wikle headshot" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ '/assets/img/wikle-headshot.jpg' | relative_url }}" >
     </div>
     <div class="col-md-8">
-        <strong>Olivia M. Wikle</strong> is the Digital Initiatives Librarian and Co-Director of the <a href="https://cdil.lib.uidaho.edu/" target="_blank" rel="noopener">CDIL</a>, where she leads and supervises creative digital projects.
+        <strong>Olivia M. Wikle</strong> is the Digital Initiatives Librarian and Co-Director of the <a href="https://cdil.lib.uidaho.edu/" target="_blank" rel="noopener">Center for Digital Inquiry and Learning (CDIL)</a>, where she leads and supervises creative digital projects.
     </div>
 </div>
