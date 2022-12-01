@@ -71,7 +71,7 @@ After 15 years of being at the U of I, Bukvich was encouraged by Music professor
 
 ## Project Collaborators
 
-<div class="row py-4 about-narrowed-content align-items-center">
+<div class="row pt-4 pb-2 about-narrowed-content align-items-center">
     <div class="col-md-4 text-center">
         <img class="img-fluid rounded-circle lazyload" alt="Liam Marchant headshot" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ '/assets/img/marchant-headshot.jpg' | relative_url }}" >
     </div>
@@ -79,11 +79,19 @@ After 15 years of being at the U of I, Bukvich was encouraged by Music professor
         <strong>Liam R. Marchant</strong> is a 2022 graduate of the University of Idaho's Lionel Hampton School of Music and holds a Bachelor of Music in Composition. He was a 2021 <a href="https://cdil.lib.uidaho.edu/people/#profile-liam-marchant" target="_blank" rel="noopener">Center for Digital Inquiry and Learning (CDIL) Library Undergraduate Fellow</a>, and an undergraduate research assistant for CDIL's <a href="https://cdil.lib.uidaho.edu/mancini/" target="_blank" rel="noopener">Letters of Marie Mancini</a> project.
     </div>
 </div>
-<div class="row py-2 about-narrowed-content align-items-center">
+<div class="row py-4 about-narrowed-content align-items-center">
     <div class="col-md-4 text-center">
         <img class="img-fluid rounded-circle lazyload" alt="Olivia Wikle headshot" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ '/assets/img/wikle-headshot.jpg' | relative_url }}" >
     </div>
     <div class="col-md-8">
         <strong>Olivia M. Wikle</strong> is the Digital Initiatives Librarian and Co-Director of the <a href="https://cdil.lib.uidaho.edu/" target="_blank" rel="noopener">Center for Digital Inquiry and Learning (CDIL)</a>, where she leads and supervises creative digital projects.
+    </div>
+</div>
+<div class="row pt-2 pb-4 about-narrowed-content align-items-center">
+    <div class="col-md-4 text-center">
+        <img class="img-fluid rounded-circle lazyload" alt="Klytie Xu headshot" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ '/assets/img/xu-headshot.jpg' | relative_url }}" >
+    </div>
+    <div class="col-md-8">
+        <strong>Klytie Xu</strong> is the Digital Projects Manager for the <a href="https://cdil.lib.uidaho.edu/" target="_blank" rel="noopener">Center for Digital Inquiry and Learning (CDIL)</a>, in which capacity she contributes to data and design for the Library's digital projects. Klytie created the writing utensil icons used on this site's <a href="{{ '/writing.html' | relative_url }}">Writing Utensils</a> page.
     </div>
 </div>
