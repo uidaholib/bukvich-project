@@ -13,7 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="Early Years;First Instructors;Montana State University;University of Idaho;Project Collaborators" %}
 
 {:.pt-5}
-This digital collection is a selection of works from the Professor Daniel Bukvich Collection at the University of Idaho Library;s Special Collections and Archives.
+This digital collection is a selection of works from the Professor Daniel Bukvich Collection at the University of Idaho Library's Special Collections and Archives.
 These pieces were specifically curated by Bukvich himself to serve as an informed introduction to his music and be an open resource for researchers, composers, and musicians.
 
 The digital collection was created with the assistance of Liam Marchant, a 2022 University of Idaho graduate, Music Composition Major, and Center for Digital Inquiry and Learning (CDIL) Fellow.
